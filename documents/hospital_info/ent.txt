@@ -1,0 +1,24 @@
+[DEMONSTRATION HOSPITAL DOCUMENTATION - ENT (EAR, NOSE & THROAT)]
+Department: Otorhinolaryngology / ENT (Code: ENT)
+Location: Building A, 3rd Floor, Suite 302
+Operating Hours: Monday - Friday, 09:00 AM - 05:00 PM; Saturday, 09:00 AM - 12:30 PM
+Hotline: Ext. 2030
+
+1. Department Description & Services
+The ENT department manages medical and surgical conditions of the ear, nose, paranasal sinuses, throat, larynx, and related neck structures. Services include audiometry hearing evaluations, endonasal endoscopy, allergy workups, management of persistent sinusitis, vertigo and balance assessments, and voice disorders.
+
+2. Registration & Intake Instructions
+Check in at Suite 302 reception. If an audiometric hearing test is scheduled, arrive 20 minutes early for sound-booth calibration.
+
+3. Required Documents
+- Valid identification and hospital registration card.
+- Prior audiograms, tympanometry reports, or sinus CT scans if previously completed.
+- Complete list of allergy history and current nasal sprays or decongestants.
+
+4. Preparation Instructions
+- Do not clean ear canals with cotton swabs, bobby pins, or sharp objects for 48 hours prior to examination, as this can irritate the ear canal and impact otoscopic visibility.
+- Avoid using medicated ear drops or nasal decongestant sprays on the morning of consultation unless prescribed by an ENT specialist.
+- Bring hearing aid devices and accessories if applicable.
+
+5. Department-Specific Intake Notes
+Active, uncontrolled nosebleeds (epistaxis) that do not subside within 15 minutes of direct pressure require immediate assessment at the Emergency Department.

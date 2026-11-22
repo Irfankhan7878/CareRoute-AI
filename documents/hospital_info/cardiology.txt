@@ -1,0 +1,24 @@
+[DEMONSTRATION HOSPITAL DOCUMENTATION - CARDIOLOGY]
+Department: Cardiology & Heart Centre (Code: CARDIO)
+Location: Heart Centre, Building C, 1st Floor
+Operating Hours: Monday - Friday, 08:00 AM - 06:00 PM; Saturday, 08:30 AM - 02:00 PM
+Hotline: Ext. 2040
+
+1. Department Description & Services
+The Cardiology Department provides comprehensive outpatient cardiac diagnostics, echocardiography, Holter rhythm monitoring, exercise treadmill stress testing, management of hypertension, lipid optimization, and long-term cardiac rehabilitation.
+
+2. Registration & Intake Instructions
+Patients check in at the Heart Centre Central Desk. All incoming patients undergo preliminary resting electrocardiogram (ECG) and automated blood pressure monitoring.
+
+3. Required Documents
+- Government photo ID and insurance policy card.
+- Prior ECG tracings, 2D Echocardiogram reports, or coronary angiogram summaries.
+- Detailed cardiac medication list, specifically noting doses of beta-blockers, ACE inhibitors, statins, and antiplatelet drugs.
+
+4. Preparation Instructions
+- Wear comfortable two-piece clothing and athletic walking shoes if scheduled for an exercise stress test (TMT).
+- Avoid caffeinated beverages (coffee, black tea, energy drinks) and tobacco products for 12 hours before cardiac stress or rhythm testing.
+- Continue essential prescribed blood pressure medications unless explicitly directed otherwise by your cardiologist.
+
+5. Department-Specific Intake Notes
+CRITICAL WARNING: If you are experiencing active crushing chest pain, pressure radiating to the jaw or left arm, severe shortness of breath, or sweating, DO NOT WAIT for an outpatient appointment. Proceed IMMEDIATELY to the Emergency Department on the Ground Floor.

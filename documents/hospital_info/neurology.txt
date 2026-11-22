@@ -1,0 +1,25 @@
+[DEMONSTRATION HOSPITAL DOCUMENTATION - NEUROLOGY]
+Department: Neurology & Neurosciences (Code: NEURO)
+Location: Neurosciences Pavilion, 2nd Floor
+Operating Hours: Monday - Friday, 09:00 AM - 05:00 PM; Saturday, 09:00 AM - 01:00 PM
+Hotline: Ext. 2070
+
+1. Department Description & Services
+The Department of Neurology investigates and treats disorders of the brain, spinal cord, peripheral nerves, and muscles. Clinical services encompass management of recurrent migraines, complex headache syndromes, peripheral neuropathies, epilepsy, movement disorders (Parkinson's, tremors), and multiple sclerosis.
+
+2. Registration & Intake Instructions
+Register at the Neurosciences Central Reception. Please allocate approximately 45 to 60 minutes for initial neurological evaluations, which include a detailed motor, sensory, cranial nerve, and reflex examination.
+
+3. Required Documents
+- National ID and hospital registration details.
+- Previous Brain MRI or Head CT imaging discs with formal radiologist reports.
+- Prior Electroencephalogram (EEG) or Nerve Conduction Study (NCS/EMG) reports.
+- Comprehensive log of antiepileptic medications, migraine preventatives, and analgesic intake.
+
+4. Preparation Instructions
+- Keep a detailed headache or symptom diary recording frequency, pain intensity, duration, and triggering events.
+- Wash your hair the night before your visit and do not apply hair sprays, oils, gels, or pomades if an EEG or neuro-diagnostic test is anticipated.
+- Ensure you have had regular meals and adequate sleep before your neurological evaluation.
+
+5. Department-Specific Intake Notes
+WARNING - FAST PROTOCOL: Sudden facial asymmetry, unilateral arm weakness, acute slurred speech, or sudden explosive headache requires instant activation of the Emergency Stroke Team (Dial 9999).

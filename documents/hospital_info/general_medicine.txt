@@ -1,0 +1,27 @@
+[DEMONSTRATION HOSPITAL DOCUMENTATION - GENERAL MEDICINE]
+Department: General Medicine (Code: GEN_MED)
+Location: Building A, 1st Floor, East Wing
+Operating Hours: Monday - Saturday, 08:00 AM - 06:00 PM
+Hotline: Ext. 2010
+
+1. Department Description & Services
+The Department of General Medicine provides primary clinical assessments, management of chronic lifestyle conditions (hypertension, type 2 diabetes mellitus, hyperlipidemia), systemic infections, acute viral febrile illnesses, and preventive adult wellness checks.
+
+2. Registration & Intake Instructions
+Patients reporting non-localized symptoms such as generalized fatigue, low-grade fever, unexplained weight fluctuations, or general malaise must register at Counter 3, East Wing. Please arrive 15 minutes prior to scheduled outpatient consults for baseline triage vital checks (blood pressure, temperature, pulse rate, oxygen saturation).
+
+3. Required Documents
+- Government-issued photo identification (National ID / Driver's License / Passport).
+- Hospital registration health card (or digital health QR code).
+- Comprehensive list of current prescription and over-the-counter medications.
+- Medical records, discharge summaries, or laboratory reports from the past 6 to 12 months.
+- Valid health insurance card or corporate billing pre-authorization document.
+
+4. Preparation Instructions
+- If undergoing fasting blood tests (lipid profile or fasting plasma glucose), observe an 8 to 10 hour overnight water-only fast.
+- Wear comfortable, loose-sleeved clothing to facilitate automated blood pressure cuff placement.
+- Bring a written log of home blood pressure or blood glucose readings taken over the previous two weeks.
+- Avoid smoking or strenuous exercise 30 minutes before vital measurement.
+
+5. Department-Specific Intake Notes
+For acute onset of high-grade fever accompanied by severe chills, cough, or productive sputum, report directly to the respiratory triage booth in Zone 1.

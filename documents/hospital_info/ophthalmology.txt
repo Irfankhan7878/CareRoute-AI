@@ -1,0 +1,26 @@
+[DEMONSTRATION HOSPITAL DOCUMENTATION - OPHTHALMOLOGY]
+Department: Ophthalmology & Eye Institute (Code: OPHTH)
+Location: Eye Centre, Building D, 1st Floor
+Operating Hours: Monday - Friday, 08:00 AM - 04:00 PM; Saturday, 08:00 AM - 12:00 PM
+Hotline: Ext. 2080
+
+1. Department Description & Services
+The Eye Institute provides comprehensive visual assessments, refraction testing, screening and treatment for glaucoma, cataracts, diabetic retinopathy, dry eye disease, corneal disorders, and ocular surface inflammatory conditions.
+
+2. Registration & Intake Instructions
+Check in at Building D Entrance Reception. Initial visual acuity screening using Snellen charts and intraocular pressure tonometry will be performed by certified ophthalmic technicians before physician examination.
+
+3. Required Documents
+- Valid identification card and medical insurance policy card.
+- Current eyeglasses (distance and reading prescriptions) and contact lens prescription details.
+- Records of previous ocular surgeries (e.g., LASIK, cataract lens implant cards, retinal laser records).
+- All current ophthalmic eye drops (e.g., glaucoma drops, artificial tears).
+
+4. Preparation Instructions
+- IMPORTANT: Diagnostic pupil dilation drops may be administered during your visit. Dilation causes temporary light sensitivity and blurred near vision for 4 to 6 hours.
+- Arrange for a companion or public transportation to assist you home; DO NOT drive yourself after pupil dilation.
+- Bring a pair of dark sunglasses to minimize discomfort from sunlight when leaving the eye clinic.
+- Remove contact lenses prior to the examination if evaluating dry eye or ocular surface irritation.
+
+5. Department-Specific Intake Notes
+Sudden, painless loss of vision in one eye, flashes of light accompanied by a curtain falling across vision (suspected retinal detachment), or acute severe eye pain with rainbow halos requires immediate emergency triage.

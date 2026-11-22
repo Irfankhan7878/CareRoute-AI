@@ -1,0 +1,35 @@
+[DEMONSTRATION HOSPITAL DOCUMENTATION - EMERGENCY DEPARTMENT]
+Department: Emergency Medicine & Acute Trauma Centre (Code: EMERG)
+Location: Ground Floor, Red Wing, Dedicated Emergency Ambulance Bay
+Operating Hours: 24 Hours a Day / 7 Days a Week / 365 Days a Year (Always Open)
+Emergency Direct Hotline: Ext. 9999 / Ambulance Hotline: 108 / 112
+
+1. Department Description & Services
+The Emergency Department (ED) is an acute level-1 resuscitation and emergency care facility. The department is staffed continuously by emergency medicine physicians, trauma surgeons, critical care nurses, and specialized resuscitation teams. Services include acute cardiac resuscitation, stroke thrombolysis, severe trauma management, acute airway stabilization, and poison control.
+
+2. Registration & Intake Instructions
+NO ADVANCE APPOINTMENT IS REQUIRED OR PERMITTED. Patients arriving at the Emergency Department do not wait in standard clinic queues; instead, every patient is immediately triaged by a certified triage nursing officer using the Emergency Severity Index (ESI):
+- Level 1 (Resuscitation): Immediate life threat (cardiac arrest, severe respiratory arrest) - ZERO wait time.
+- Level 2 (Emergent): High risk, chest pain, stroke symptoms, acute confusion - immediate bed placement.
+- Level 3 (Urgent): Stable vitals but severe distress requiring multi-resource evaluation.
+- Levels 4 & 5 (Less Urgent): Minor acute injuries or mild illnesses.
+
+3. Required Documents (Optional / Post-Stabilization)
+In acute emergencies, clinical stabilization ALWAYS precedes documentation. If safely available:
+- National ID / Driver's license / Passport.
+- Emergency contact name and phone number.
+- Any known drug allergies and current medication list.
+- Insurance card (financial processing takes place only AFTER clinical stabilization).
+
+4. Preparation Instructions
+- In any life-threatening situation, dial local emergency services (112 / 911 / 108) immediately.
+- Do not drive yourself to the hospital if experiencing chest pain, dizziness, shortness of breath, or severe bleeding.
+- Do not consume food or fluids before emergency evaluation, as emergency procedures or imaging may require fasting.
+
+5. Critical Warning Signs Requiring Immediate Emergency Care
+- Crushing chest pain or heavy pressure radiating to jaw, neck, or left arm.
+- Sudden onset of breathing difficulty, inability to speak full sentences.
+- FAST signs of stroke: Facial droop, Arm weakness, Slurred speech, Time to call emergency.
+- Severe head trauma with loss of consciousness or repeated vomiting.
+- Uncontrolled, torrential external or internal bleeding.
+- Sudden severe confusion, unresponsiveness, or recurrent seizures.

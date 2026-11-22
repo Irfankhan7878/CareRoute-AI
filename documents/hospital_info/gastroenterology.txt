@@ -1,0 +1,25 @@
+[DEMONSTRATION HOSPITAL DOCUMENTATION - GASTROENTEROLOGY]
+Department: Gastroenterology & Hepatology (Code: GASTRO)
+Location: Building B, 3rd Floor, Suite 315
+Operating Hours: Monday - Friday, 08:30 AM - 05:00 PM; Saturday, 08:30 AM - 12:30 PM
+Hotline: Ext. 2060
+
+1. Department Description & Services
+The Department of Gastroenterology specializes in conditions of the esophagus, stomach, small intestine, colon, liver, pancreas, and biliary system. Services include diagnostic upper GI endoscopy, colonoscopy, capsule endoscopy, breath testing for Helicobacter pylori, and inflammatory bowel disease management.
+
+2. Registration & Intake Instructions
+Check in at Suite 315 reception desk. If an endoscopic procedure is scheduled, you must be accompanied by an adult responsible escort to provide transportation home after conscious sedation.
+
+3. Required Documents
+- Photo ID, insurance cards, and hospital registration profile.
+- Previous endoscopy/colonoscopy photographic reports and pathology biopsy slides or documentation.
+- Abdominal ultrasound, CT abdomen/pelvis, or MRI scan records.
+- Complete medication log, especially blood thinners, anticoagulants, or diabetes medications.
+
+4. Preparation Instructions
+- Routine clinic consultation: maintain regular diet unless specific fasting blood or abdominal ultrasound tests are ordered.
+- Endoscopy patients: follow the specialized pre-procedure bowel preparation and fasting protocol provided at the time of procedure scheduling.
+- Write down a concise 7-day diary of symptoms, correlating meals with discomfort, reflux, or bowel habits.
+
+5. Department-Specific Intake Notes
+Acute gastrointestinal bleeding (vomiting blood or passing black tarry stools) or sudden severe rigid abdominal pain requires immediate emergency admission.

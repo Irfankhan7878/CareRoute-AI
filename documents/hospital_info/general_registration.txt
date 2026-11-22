@@ -1,0 +1,22 @@
+[DEMONSTRATION HOSPITAL DOCUMENTATION - GENERAL REGISTRATION & HOSPITAL POLICIES]
+Document: Hospital Intake, Billing & General Patient Guidelines
+Location: Central Atrium, Ground Floor, Counters 1 - 8
+Customer Care Hotline: Ext. 1000 / Helpdesk: Ext. 1001
+
+1. General Patient Registration Workflow
+All first-time patients visiting the outpatient clinics must complete an initial electronic registration profile at the Central Atrium or via the hospital web intake portal. Once registered, a permanent Medical Record Number (Patient ID, e.g., P-XXXX) is generated. This identifier links all consultations, lab tests, prescriptions, and imaging studies across all departments.
+
+2. General Documents Required for All Visits
+- Official Government Photo Identification (Driver's License, National Identity Card, Passport).
+- Active health insurance card, employer medical authorization voucher, or cashless pre-approval letter.
+- Complete, up-to-date medication list (including dosages of prescription drugs, vitamins, and supplements).
+- Previous medical discharge summaries, lab test results, or radiographic CDs from other health institutions.
+
+3. Outpatient Appointment Policies
+- Demonstration appointments are scheduled in designated 15-minute consultation slots.
+- Patients are requested to check in at their assigned department reception desk 15 minutes prior to their appointment time.
+- If running late, please notify the departmental helpline. Slots unconfirmed 20 minutes past appointment time may be released to urgent walk-ins.
+- Cancellations or slot rescheduling should be submitted at least 2 hours in advance.
+
+4. Patient Safety & Non-Diagnostic Advisory Notice
+This hospital information and routing assistant provides administrative intake guidance and organizational department routing. It is strictly NOT a diagnostic medical system. The routing assistant does not diagnose diseases, interpret imaging studies, prescribe pharmacological agents, or predict clinical outcomes. All clinical decisions and treatment plans are made solely by licensed healthcare professionals following direct clinical assessment.

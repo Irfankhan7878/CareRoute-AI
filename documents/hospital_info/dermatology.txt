@@ -1,0 +1,24 @@
+[DEMONSTRATION HOSPITAL DOCUMENTATION - DERMATOLOGY]
+Department: Dermatology & Cutaneous Biology (Code: DERM)
+Location: Building A, 2nd Floor, Suite 210
+Operating Hours: Monday - Friday, 09:00 AM - 04:30 PM; Saturday, 09:00 AM - 01:00 PM
+Hotline: Ext. 2050
+
+1. Department Description & Services
+The Dermatology Department diagnoses and manages skin diseases, eczema, psoriasis, cutaneous allergic reactions, acne, dermatitis, pigmentary disorders, alopecia (hair loss), and suspicious mole screening via digital dermoscopy.
+
+2. Registration & Intake Instructions
+Report to Suite 210 check-in kiosk. Please inform triage staff if you suspect a contagious rash (e.g., suspected shingles, varicella, or scabies) so isolated intake seating can be arranged.
+
+3. Required Documents
+- Photo identification and insurance documentation.
+- Names or packaging of current topical ointments, steroid creams, cosmetic preparations, and systemic dermatological medications (e.g., retinoids, biologics).
+- Prior skin biopsy reports or allergy patch test records.
+
+4. Preparation Instructions
+- Do not apply heavy cosmetic foundation, concealer, tanning lotion, or colored ointments over skin lesions on the day of consultation.
+- If nail changes or discoloration are being examined, remove all nail polish or artificial nails at least 24 hours prior to appointment.
+- Bring photographs of the skin condition if the rash flares intermittently or changes appearance.
+
+5. Department-Specific Intake Notes
+Severe blistering covering extensive body areas, fever accompanied by peeling skin, or facial angioedema with lip swelling requires emergency triage.
